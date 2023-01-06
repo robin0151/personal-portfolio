@@ -227,3 +227,31 @@ main {
     text-align: center;
     margin-top: 50px;
 }
+
+/* contact styles */
+
+.contact{
+    display: flex;
+    gap: 117px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.contact .section-title{
+    text-align: left;
+}
+
+.contact input[type="text"], input[type=email], textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+
+}
+
+.input{
+    height: 64px;
+}
+
+.contact a{
+    text-decoration: none;
+}
