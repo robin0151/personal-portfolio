@@ -58,21 +58,14 @@ nav ul {
 
 .btn-secendary{
     height: 64px;
-    border-radius: 5px;
-    margin-left:30px ;
-    
+    border-radius: 5px;   
     background-color:  #FFFFFF;
     font-weight: 700;
-    font-size: 20px;
-    
+    font-size: 20px; 
     padding: 17px 35px;
     color: #FD6E0A;
-    border-color: #FD6E0A;
-  
-   
-    
-
-    
+    border-color: #FD6E0A;    
+    margin-left:30px ;
 
 }
 
